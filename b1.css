@@ -1,0 +1,24 @@
+.dropdown-item:hover {
+    color: white !important;
+    background-color: rgb(54, 144, 234) !important;
+}
+
+.dropdown-item {
+    color: white;
+    background-color: orangered;
+}
+
+.dropdown-item:disabled {
+    color: #bdb5ad;
+
+}
+
+.dropdown-menu {
+    background-color: orangered !important;
+    color: white;
+}
+
+.btn-secondary {
+    background-color: orangered !important;
+    color: white !important;
+}
